@@ -25,7 +25,7 @@ I gave Jekyll a try and was immediately hooked. That version came with some real
 
 ### In the thing that comes after the beginning
 
-Making a Jekyll blog is cool. Customizing that Jekyll blog is cooler.
+Making a Jekyll blog isn't cool. You know what's cool? Customizing a Jekyll blog.
 
 It's pretty easy to get up and running with Jekyll, but judging by the number of Jekyll blogs I've seen that have the default page structure, it looks like most people take a look at Liquid (the templating language that powers Jekyll) and they just say, "Nah."
 

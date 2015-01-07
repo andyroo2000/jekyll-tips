@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![My helpful screenshot](http://f.cl.ly/items/3J321s111l3n3t1N2e1d/jekyl-repo-stars.png)
+
 Judging from the number of stars Jekyll has on Github, I'd say it has a decent following.
 
 I created this site because I've had a hard time finding great articles on actually using Jekyll in production for real projects. There are certainly a few here and there, but I haven't found a single place that could be a trusted resource or the first place you check for information on how to do things in Jekyll.
