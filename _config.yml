@@ -1,5 +1,5 @@
 # Site settings
-title: Jekyll-Notes
+title: Jekyll-Tips
 email: andrewlandry@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Tips and tricks for users of Jekyll, the world's most popular static site generator.
