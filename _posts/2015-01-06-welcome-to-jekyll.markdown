@@ -1,25 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll Notes!"
 date:   2015-01-06 12:55:58
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### In the beginning
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I first discovered Jekyll in the middle of 2013, when I had decided to teach myself web development. I needed to build a bunch of practice sites on which to practice the CSS arts and using WordPress or any sort of full-stack framework seemed like swatting an ant with an anvil.
 
-Jekyll also offers powerful support for code snippets:
+I gave Jekyll a try and was immediately hooked. That version came with some really horrid CSS, which most people who tried Jekkyl didn't bother to change. The current version of Jekyll looks like Medium in comparison to the Geocities-esque in-line styling of the original.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**Pros**
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+- I love writing posts in markdown
+- I love writing posts in my own text editor
+- Jekyll is small and easy to *reason about*
+- version control includes my posts
+- green squares on GitHub for blog posts  ;)
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+**Cons**
+
+- not user friendly for non-techies and there's no control panel
+- you can't really write posts from you phone, if you're into that sort of degenerate behavior
+
+### In the thing that comes after the beginning
+
+Making a Jekyll blog is cool. Customizing that Jekyll blog is cooler.
+
+It's pretty easy to get up and running with Jekyll, but judging by the number of Jekyll blogs I've seen that have the default page structure, it looks like most people take a look at Liquid (the templating language that powers Jekyll) and they just say, "Nah."
+
+This blog is about digging into Jekyll, getting our hands dirty, and finding ways to bend Jekyll to our will.
+
+
+
